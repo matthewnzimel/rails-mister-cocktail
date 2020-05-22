@@ -1,0 +1,26 @@
+TODO
+  Plan
+  1. What can the user do: this, that, etc.
+      - What are the views?
+  2. Design the schema with the parameters
+  3. Use the MVC structure to start building the app
+  4. Understand Active Record
+
+  Production
+  5. Start Rails app
+  6. Create DB & then Run Migrations (How to connect models to database?)
+  7. Build the models - 'what is a cocktail, what is a dose, etc.; set relations between'
+  8. Create the routes (localhost:3000/*whatever[:id])
+  9. Create some seeds (incl. image upload, if necessary)
+      - user might create new beach, when user clicks, they might expect an image
+      - start the server (rails s)
+      - create basic view to check the database is loaded
+  10. Create the Controllers
+      - All the CRUD;
+  11. Implement the Views
+
+RESOURCES
+  - Rails Lectures
+  - Kitt Library Resources
+  - Starting a Project Cheatsheet
+  -
